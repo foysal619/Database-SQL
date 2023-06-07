@@ -74,7 +74,7 @@ If customers have points of more than 3000, they are platinum members.
     - Tool: xampp, SQLyog
 
 ### How to Run the file
-    - close the project and exract the sql file
+    - clone the project and exract the sql file
     - open xampp and connect to the server
     - open SQLyog and load the sql file and execute the queries
 
